@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)]
-
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)
+![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)
 
 <!--
 **preet2379/preet2379** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
