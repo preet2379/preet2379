@@ -1,6 +1,11 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="100"/>
 </div>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/preetpatel12/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</div>
+    
 <!--
 https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=ecf05e47w5meb3y7a0ya274upllksr3y6900x25on03fy9eu&ep=v1_gifs_search&rid=giphy.gif&ct=g
 **preet2379/preet2379** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
