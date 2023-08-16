@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![LinkedIn](https://www.linkedin.com/in/preetpatel12//badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)
 
 <!--
 **preet2379/preet2379** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
